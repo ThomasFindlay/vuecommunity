@@ -207,3 +207,21 @@ You can pay what you want for this ebook, and give part of the price to support 
 
 </useful-links-section>
 </useful-links>
+
+### Vue - The Road To Enterprise
+**Author**: Thomas Findlay
+
+> Learn how to create Enterprise-Ready applications with Vue 2 and 3. Best practices, advanced patterns, guides, tricks, and more...
+
+"Vue - The Road To Enterprise" is an advanced book that revolves around best practices and advanced patterns for the development of large-scale applications. It covers both Vue 2 and 3 and is a one-stop resource for many advanced concepts that should help you solve and avoid many pain-points when developing Vue applications. Each chapter in the book can be read independently, so you can immediately dive into the topic that interests you the most. The book also comes with a Companion App that showcases more advanced code examples and pre-configured Vue 3 Enterprise Boilerplate so that you can kickstart new projects. 
+
+This book is not a beginner's guide. The reader should have at least an intermediate knowledge of Vue.js and JavaScript. 
+
+<useful-links>
+<useful-links-section title="Link">
+
+[Vue - The Road To Enterprise](https://bit.ly/3pbKqSb)
+
+</useful-links-section>
+</useful-links>
+
